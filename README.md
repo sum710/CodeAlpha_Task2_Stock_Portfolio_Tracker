@@ -41,12 +41,9 @@ python stock portfolio tracker.py
 **📁 File Structure**
 
 stock-portfolio-tracker/
-├── stock_tracker.py  
-
+├── stock_portfolio_tracker.py  
 # Main script
-
 └── README.md    
-
 # Project documentation
 
 **📌 Notes**
